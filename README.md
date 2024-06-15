@@ -1,4 +1,4 @@
-# My NumPy Journey
+# My NumPy Journey 🚀
 
 I am eager to share my knowledge with the world! This repository contains my implementations of basic operations using NumPy, a popular Python library for numerical computing. As part of my journey in the mathematics for machine learning course, I explored various functionalities of NumPy and documented my learning process here.
 
