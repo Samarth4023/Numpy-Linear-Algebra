@@ -78,9 +78,8 @@ print("Mean Value:", mean_val)
 
 Feel free to fork this repository, create issues, or submit pull requests. Any contributions to enhance the examples or add more functionalities are welcome.
 
-
 ---
-
 By sharing this repository, I hope to help others understand the basics of NumPy and encourage them to explore its powerful features in their own projects. 
 
+---
 ### Happy coding!
